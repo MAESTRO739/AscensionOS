@@ -1,4 +1,4 @@
-# NovaOS
+# AscensionOS
 
 AscensionOS is a 64-bit operating system written from scratch in Assembly and C. It aims to grow over time into a fully featured environment with graphics, file system, scripting language, and more.
 
