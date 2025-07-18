@@ -1,4 +1,4 @@
-# NovaOS Roadmap
+# AscensionOS Roadmap
 
 ## Bootloader Phase
 - [x] Setup nasm and qemu
