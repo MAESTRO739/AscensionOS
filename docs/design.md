@@ -1,4 +1,4 @@
-# NovaOS – Design Notes
+# AscensionOS – Design Notes
 
 ## Why I'm Building It
 - Learn everything under the hood of a computer
