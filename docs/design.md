@@ -1,4 +1,4 @@
-# AscensionOS – Design Notes
+# EldenOS – Design Notes
 
 ## Why I'm Building It
 - Learn everything under the hood of a computer
@@ -12,8 +12,8 @@
 - Modular architecture (bootloader → kernel → drivers → apps)
 
 ## Language & Toolchain
-- Starting in x86 Assembly and C
-- Will eventually add my own scripting language
+- Starting in Assembly and C
+- Will eventually add my own language
 - Tooling: NASM, QEMU, Git, Obsidian
 
 ## Near-Term Focus
