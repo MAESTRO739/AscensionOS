@@ -1,4 +1,4 @@
-# AscensionOS Roadmap
+# EldenOS Roadmap
 
 ## Bootloader Phase
 - [x] Setup nasm and qemu
